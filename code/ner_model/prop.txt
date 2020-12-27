@@ -1,0 +1,21 @@
+trainFile = ..\Dataset\NERtr.txt
+serializeTo = custom1-ner-model.ser.gz
+map = word=0,answer=1
+
+useClassFeature=true
+useWord=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=10
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=true
+maxLeft=3
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC
+useDisjunctive=true
+
+

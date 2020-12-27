@@ -1,0 +1,40 @@
+[[ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  1.  0.  0.  0.
+   0.  0.]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [ 0.  0.  0.  0.  0.  1.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  0.]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan nan
+  nan nan]
+ [ 0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.  0.
+   0.  1.]]{'INT': 0, 'DET': 1, 'N': 2, 'ADJ': 3, 'QUA': 4, 'CON': 5, 'DELM': 6, 'PS': 7, 'PRO': 8, 'MORP': 9, 'PP': 10, 'ADV': 11, 'END': 12, 'START': 13, 'V': 14, 'MQUA': 15, 'IF': 16, 'MS': 17, 'SPEC': 18, 'P': 19}
